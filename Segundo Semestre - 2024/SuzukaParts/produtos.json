@@ -1,0 +1,24 @@
+[
+    {
+        "id": "2",
+        "name": "Banana",
+        "price": "50",
+        "partNumber": "123",
+        "stock": "10",
+        "category": "Frutas",
+        "factoryPrice": "10",
+        "manufacturer": "Bananeira",
+        "description": "Banana amarelinha ben madura"
+    },
+    {
+        "id": "1233",
+        "name": "Bola",
+        "price": "15,90",
+        "partNumber": "2233",
+        "stock": "10",
+        "category": "Brinquedos",
+        "factoryPrice": "2,99",
+        "manufacturer": "Bikanaub",
+        "description": "BOlona"
+    }
+]
