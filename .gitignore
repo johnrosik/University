@@ -10,9 +10,6 @@ yarn-error.log
 
 # Python
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
 env/
 venv/
 
